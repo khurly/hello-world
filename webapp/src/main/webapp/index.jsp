@@ -1,4 +1,4 @@
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
 <h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> Casi terminamos</h2>
+<h2> Parecia que Casi terminabamos</h2>
 
